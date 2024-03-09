@@ -1,0 +1,1 @@
+ C:\\Users\\Srujana\\Desktop\\madexp2\\.dart_tool\\flutter_build\\3fc2429336741c796940b23d9c1400a1\\native_assets.yaml: 
